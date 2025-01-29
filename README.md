@@ -9,6 +9,6 @@ Primeiro iremos realizar uma conexão com o SQLite
 -Inserindo dados na tabela clientes
 -Criando uma função para inserir dados na tabela clientes
 
-NÃO ESQUECER DE FEIXAR A CONEÇÃO QUANDO FINALIZAR TUDO
+NÃO ESQUECER DE FEIXAR A CONECÇÃO QUANDO FINALIZAR TUDO
 cursor.close()
 conexao.close() 
